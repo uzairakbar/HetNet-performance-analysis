@@ -8,7 +8,11 @@ Uzair Akbar<sup>1</sup>, Haris Suhail<sup>1</sup>, Osama Waqar Bhatti<sup>1</sup
 <sup>2</sup>School of Computing & Communications, Lancaster University, UK
 
 ## Abstract
-Recent simulations and performance analysis of mmWave-HetNets have shown favorable Signal to Interference and Noise Ratio (SINR) coverage and rate coverage for sub-urban environments. These simulations however, unrealistically, do not account for the elevation angle of the Base Station beam alignment. This project involves realization of a more realistic model via 3D channel modelling and subsequently a more accurate investigation into the coverage and rate trends in a downlink transmission scheme of hybrid cellular networks.
+Next generation cellular networks have various enablers. This project studies the following 3 enablers in the context of a three tier mmWave - microWave network:
+- Heterogenity
+- Decoupled Access
+- mmWave
+Performance metrics like system coverage and data-rate are evaluated under different system configurations and the observed trends and trade-offs are discussed.
 
 ## Papers
 
