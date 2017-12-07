@@ -12,4 +12,4 @@ Recent simulations and performance analysis of mmWave-HetNets have shown favorab
 
 ## Papers
 
-[O. W. Bhatti, H. Suhail, U. Akbar, S. A. Hassan, H. Pervaiz, L. Musavian, Q. Ni, "Performance analysis of decoupled cell association in multi-tier hybrid networks using real blockage environments," International Wireless Communications and Mobile Computing Conference (IWCMC), Spain, June 2017](http://ieeexplore.ieee.org/document/7986263/).
+[O. W. Bhatti, H. Suhail, U. Akbar, S. A. Hassan, H. Pervaiz, L. Musavian, Q. Ni, "Performance analysis of decoupled cell association in multi-tier hybrid networks using real blockage environments," *International Wireless Communications and Mobile Computing Conference (IWCMC)*, Spain, June 2017](http://ieeexplore.ieee.org/document/7986263/).
