@@ -12,6 +12,7 @@ Next generation cellular networks have various enablers. This project studies th
 - Heterogenity
 - Decoupled Access
 - mmWave
+
 Performance metrics like system coverage and data-rate are evaluated under different system configurations and the observed trends and trade-offs are discussed.
 
 ## Papers
